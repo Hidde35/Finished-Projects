@@ -1,0 +1,10 @@
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\bin\Debug\ConnectArduino_Base.exe.config
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\bin\Debug\ConnectArduino_Base.exe
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\bin\Debug\ConnectArduino_Base.pdb
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.csprojAssemblyReference.cache
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.Form1.resources
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.Properties.Resources.resources
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.csproj.GenerateResource.cache
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.csproj.CoreCompileInputs.cache
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.exe
+C:\Users\Hidde\Downloads\CommunicatieArduino\ConnectArduino_Base\ConnectArduino_Base\obj\Debug\ConnectArduino_Base.pdb

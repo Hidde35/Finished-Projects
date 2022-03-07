@@ -1,0 +1,30 @@
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe.config
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\bin\Debug\ControllerApp.pdb
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csprojAssemblyReference.cache
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Form1.resources
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Properties.Resources.resources
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.GenerateResource.cache
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.exe
+C:\Users\Hidde Roos\Downloads\ControllerApp\ControllerApp\obj\Debug\ControllerApp.pdb
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe.config
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.pdb
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csprojAssemblyReference.cache
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Form1.resources
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Properties.Resources.resources
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.GenerateResource.cache
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.CoreCompileInputs.cache
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.exe
+C:\Users\Hidde Roos\Downloads\School\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.pdb
+E:\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe.config
+E:\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.exe
+E:\Proftaak 2\ControllerApp\ControllerApp\bin\Debug\ControllerApp.pdb
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csprojAssemblyReference.cache
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Form1.resources
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.Properties.Resources.resources
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.GenerateResource.cache
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.csproj.CoreCompileInputs.cache
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.exe
+E:\Proftaak 2\ControllerApp\ControllerApp\obj\Debug\ControllerApp.pdb

@@ -1,0 +1,20 @@
+name: AutoBroadcast
+main: me.Broadcast.Main
+version: 0.0.1
+description: AutoBroadcasts Messages on the server.
+
+commands:
+  broadcastSet:
+    usage: /<command>
+    description: /broadcastset <Name> <Text>
+  broadcastRemove:
+    usage: /<command>
+    description: /broadcastremove <Name>
+  broadcastList:
+    usage: /<command>
+    description: shows all the broadcasts
+  broadcastDo:
+    usage: /<command>
+    description: /broadcastdo <Name>
+
+
